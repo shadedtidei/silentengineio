@@ -1,0 +1,6 @@
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
